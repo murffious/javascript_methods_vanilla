@@ -13,3 +13,6 @@
 
 //Strategies form Stephen Grider Course 
 //objject character map building 
+
+
+// CCTCI ideas 
