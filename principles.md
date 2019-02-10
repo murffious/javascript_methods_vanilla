@@ -1,0 +1,6 @@
+Coding Principels
+
+
+OOP 
+
+SOLID 
