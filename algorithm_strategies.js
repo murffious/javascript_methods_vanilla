@@ -9,3 +9,7 @@
 // SWAP step
 // Compare step//
 
+
+
+//Strategies form Stephen Grider Course 
+//objject character map building 
