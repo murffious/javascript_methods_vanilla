@@ -16,3 +16,17 @@
 
 
 // CCTCI ideas 
+
+
+COMPARE
+ if (arr[i] > arr[i + 1]) 
+   
+BOOLEANs    
+        sorted = false;
+   
+TEMP var []
+var temp = arr[i];
+
+Reassign values based on index - capitalize on index
+        arr[i] = arr[i + 1];
+       
